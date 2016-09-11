@@ -1,0 +1,38 @@
+html{
+  background-color: orange;
+}
+
+h1 {
+ color: white;
+ margin: auto;
+ padding: inherit;
+ text-align: center;
+ border: solid;
+}
+
+ul li a {
+  color: green;
+  font-size: 15px;
+  font-family:Georgia monospace;
+
+}
+
+
+li{
+  margin-top: 15px;
+}
+ul p{
+color: white;
+}
+
+header h1 {
+  color: maroon;
+}
+img{
+  display: block;
+  margin-left: 400px;
+}
+
+P{
+  border: solid;
+}
